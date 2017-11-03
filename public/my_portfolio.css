@@ -1,0 +1,14 @@
+#primary_nav{
+    background-color: #420039 !important;
+    font-size: 48px;
+}
+
+#purple-button {
+    border-color: #563d7c;
+    color: white
+}
+
+#container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
